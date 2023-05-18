@@ -1,1 +1,1 @@
-init my git
+init my gitHub
